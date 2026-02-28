@@ -1,0 +1,8 @@
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/TextFinder.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/TextFinder_autogen_timestamp_deps.dir
+C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/TextFinder_autogen.dir

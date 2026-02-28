@@ -11,6 +11,7 @@ qt_add_executable(TextFinder
     textfinder.cpp
     textfinder.h
     textfinder.ui
+    textfinder.qrc
 )
 
 target_link_libraries(TextFinder

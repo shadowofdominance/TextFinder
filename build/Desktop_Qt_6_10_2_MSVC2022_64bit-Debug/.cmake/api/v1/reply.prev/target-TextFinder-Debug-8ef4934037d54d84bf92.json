@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 24,
+				"line" : 26,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 16,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
@@ -486,8 +486,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				5,
-				6
+				6,
+				7
 			]
 		},
 		{
@@ -513,10 +513,17 @@
 			]
 		},
 		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				5
+			]
+		},
+		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				7
+				8
 			]
 		}
 	],
@@ -552,6 +559,11 @@
 			"sourceGroupIndex" : 3
 		},
 		{
+			"backtrace" : 4,
+			"path" : "textfinder.qrc",
+			"sourceGroupIndex" : 4
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/include/ui_textfinder.h",
@@ -567,7 +579,7 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/timestamp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		}
 	],
 	"type" : "EXECUTABLE"

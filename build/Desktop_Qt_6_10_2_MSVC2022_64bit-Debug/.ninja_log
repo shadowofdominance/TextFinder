@@ -1,0 +1,15 @@
+# ninja log v6
+6	435	7939939972037846	TextFinder_autogen/timestamp	f0340de4a3e4f96
+451	3413	7939939972925072	CMakeFiles/TextFinder.dir/textfinder.cpp.obj	b263abe2dba9a564
+6	435	7939939972037846	TextFinder_autogen/mocs_compilation.cpp	f0340de4a3e4f96
+6	435	7939939972037846	C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/timestamp	f0340de4a3e4f96
+3414	3735	7939940002552594	TextFinder.exe	2691cdc61e158d5e
+6	435	7939939972037846	C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/mocs_compilation.cpp	f0340de4a3e4f96
+440	3024	7939939972825326	CMakeFiles/TextFinder.dir/TextFinder_autogen/mocs_compilation.cpp.obj	2e0586f8d88791c6
+445	3026	7939939972861986	CMakeFiles/TextFinder.dir/main.cpp.obj	1e99e62270df8d8d
+37	232	7939940392482766	TextFinder_autogen/timestamp	f0340de4a3e4f96
+37	232	7939940392482766	TextFinder_autogen/mocs_compilation.cpp	f0340de4a3e4f96
+37	232	7939940392482766	C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/timestamp	f0340de4a3e4f96
+37	232	7939940392482766	C:/Users/acd07/Documents/QT_Projects/TextFinder/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TextFinder_autogen/mocs_compilation.cpp	f0340de4a3e4f96
+233	4102	7939940394443435	CMakeFiles/TextFinder.dir/textfinder.cpp.obj	b263abe2dba9a564
+4103	4283	7939940433136877	TextFinder.exe	2691cdc61e158d5e

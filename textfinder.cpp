@@ -1,7 +1,8 @@
 #include "textfinder.h"
 #include "ui_textfinder.h"
-#include <Qfile>
+#include <QFile>
 #include <QTextStream>
+#include <QDebug>
 
 TextFinder::TextFinder(QWidget *parent)
     : QWidget(parent)
@@ -22,15 +23,21 @@ void TextFinder::on_FindButton_clicked()
     ui->textEdit->find(searchString, QTextDocument::FindWholeWords);
 }
 
-void TextFinder::loadTextFile(){
-        QFile inputFile(":/input.txt");
-        inputFile.open(QIODevice::ReadOnly);
+void TextFinder::loadTextFile()
+{
+    qDebug() << "Exists?" << QFile::exists(":/para.txt");
 
-        QTextStream in(&inputFile);
-        QString line = in.readAll();
-        inputFile.close();
+    QFile inputFile(":/para.txt");
 
-        ui->textEdit->setPlainText(line);
-        QTextCursor cursor = ui->textEdit->textCursor();
-        cursor.movePosition(QTextCursor::Start, QTextCursor::MoveAnchor, 1);
+    if (!inputFile.open(QIODevice::ReadOnly | QIODevice::Text))
+    {
+        qDebug() << "Failed to open file!";
+        return;
+    }
+
+    QTextStream in(&inputFile);
+    QString line = in.readAll();
+    inputFile.close();
+
+    ui->textEdit->setPlainText(line);
 }
